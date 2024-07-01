@@ -7,8 +7,8 @@ import (
     "time"
 )
 
-const width = 77
-const height = 26
+const width = 90//77
+const height = 40//26
 const MAXage = 500
 
 type cells [width][height]int
